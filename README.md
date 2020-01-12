@@ -19,7 +19,7 @@ A Day Planner Application that allows the user to store events on an hourly day 
 ![Day Planner App](https://github.com/GranvilleSims/Portfolio/blob/master/assets/assets/planPage.png)
 
 
-A New Application that I participated in making with a team of developers.  The app llows the user to search on a topic, then the app returns headlines from both The Guardian news source and the New York Times, side-by-side.  The purpose of the app is to allow users to compare the news coverage of topics by the two sources.
+A News Application that I participated in making with a team of developers.  The app allows the user to search on a topic, then the app returns headlines from both The Guardian news source and the New York Times, side-by-side.  The purpose of the app is to allow users to compare the news coverage of topics by the two sources.
 
 ![News App](https://github.com/GranvilleSims/Portfolio/blob/master/assets/assets/newsPage.png)
 
