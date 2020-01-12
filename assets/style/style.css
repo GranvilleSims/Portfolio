@@ -3,12 +3,22 @@
     background-image: url('../bluImage.jpg');
 }
 
+.mainContent {
+    margin-bottom: 60px;
+}
+
+
+
 .nav-link {
     color: #2ecc71 !important;
 }
 
 .navbar-brand {
     color: #2ecc71 !important;
+}
+
+a {
+    color: #154360;
 }
 
 #contentBox {
@@ -82,3 +92,5 @@
     bottom: 10px;
   
   }
+
+  
